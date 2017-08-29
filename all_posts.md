@@ -3,7 +3,7 @@ layout: allposts
 title: News
 landing-title: 'News'
 description: null
-image: /assets/images/pic07.jpg
+image: /assets/images/pic07.jpg/
 author: null
 ---
 
